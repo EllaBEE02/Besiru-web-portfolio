@@ -1,0 +1,28 @@
+.header {
+  border-bottom: 1px solid black;
+}
+
+.current-objective {
+  font-size: 20px;
+}
+
+.github {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* .about-colour {
+  background: #16404D;
+  color: white;
+} */
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
